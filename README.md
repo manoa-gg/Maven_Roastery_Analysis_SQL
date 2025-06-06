@@ -6,14 +6,14 @@
 ## 🚀 Project Overview
 | Category          | Description |
 |-------------------|-------------|
-| **Business Case** | [Analyzing opportunity to increase revenue] |
-| **Data Source**   | [Mock cafe dataset from Kaggle] |
-| **Key Insights**  | [2 Items driving almost 70% of cafe revenue] |
+| **Business Case** | Analyzing opportunity to increase revenue |
+| **Data Source**   | Mock cafe dataset from Kaggle |
+| **Key Insights**  | 2 Items driving almost 70% of cafe revenue |
 
 ## 🧠 Skills Demonstrated
-[![SQL]
-[![Data Cleaning]
-[![Business Intelligence]
+**SQL**
+**Data Cleaning**
+**Business Intelligence**
 
 ## 📂 File Guide
 | File | Purpose | Key Features |
