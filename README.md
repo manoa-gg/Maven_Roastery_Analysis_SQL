@@ -1,8 +1,5 @@
 # [Maven_Roastery_Analysis] SQL Analysis Portfolio
 
-👋 **Business Strategist → Data Analyst**  
-*Leveraging 5+ years in business development to deliver data-driven insights*
-
 ## 🚀 Project Overview
 | Category          | Description |
 |-------------------|-------------|
@@ -59,12 +56,24 @@ order by hourly_revenue desc;
 
 **Insight 1: Peak Sales Hours**
 - Insight: Mornings (07-10 AM) are peak sales hours.
-- Recommendation: Double down on mornings by adding staff to reduce wait times and maximize peak revenue. Revive 		afternoons with discounted coffee-pastry combos or iced beverages. Promote evening specials to drive 		late-day traffic.
+- Recommendation: Double down on mornings by adding staff to reduce wait times and maximize peak revenue. Revive 		        afternoons with discounted coffee-pastry combos or iced beverages. Promote evening specials to drive 		        late-day traffic.
 
 **Insight 2: Dominant Product Categories**
 - Insight: Coffee and Tea contribute to almost 70% of daily revenue.
-- Recommendation: Expand coffee-related upsells (e.g., premium blends, subscriptions) to reinforce purchasing habits. 		Create combo deals (e.g., “Coffee + Other category items at 10% off”) to increase sales of lower 		category items.
+- Recommendation: Expand coffee-related upsells (e.g., premium blends, subscriptions) to reinforce purchasing habits. 		    Create combo deals (e.g., “Coffee + Other category items at 10% off”) to increase sales of lower 		              category items.
 
 **Insight 3: High-Performing Store Locations**
 - Insight: Lower Manhattan shows the highest sales volume, while Hell’s Kitchen is the most profitable branch.
-- Recommendation: Leverage Lower Manhattan's high sales volume by testing upselling strategies (e.g., add pastry for 		$2) to further boost transaction value. Optimize Hell’s Kitchen's volume by promoting premium 			products (e.g., merchandise, coffee beans) to increase ATV.
+- Recommendation: Leverage Lower Manhattan's high sales volume by testing upselling strategies (e.g., add pastry for 		    $2) to further boost transaction value. Optimize Hell’s Kitchen's volume by promoting premium 			              products (e.g., merchandise, coffee beans) to increase ATV.
+
+## 📈 About Me
+
+**👋 Business Strategist → Data Analyst**
+
+*Leveraging 5+ years in business development to deliver data-driven insights*
+
+**- Background** : With a strong background in business development, I transitioned to data analysis to provide                    actionable insights that drive business growth.
+
+**- Skills** : Proficient in SQL, data cleaning, data profiling, statistical analysis, business intelligence, and                  strategic planning.
+
+**- Approach** : I focus on translating complex data into clear, actionable insights that inform strategic decision-               making and operational improvements.
